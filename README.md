@@ -2,6 +2,7 @@
 - 👀 I’m interested in taking part in building web application using a python framework Django
 - 🌱 I’m currently learning backend web development using the django framework
 - 💞️ I’m looking to collaborate on building of greater web application.
+- I am a network engineer with experience in troubleshooting, configuring and setting up full internet access in homes and enterprises.
 - 📫 How to reach me @singorosifuna2@gmail.com
 -    facebook @shovinking
 -    whatsapp +254 745858432
